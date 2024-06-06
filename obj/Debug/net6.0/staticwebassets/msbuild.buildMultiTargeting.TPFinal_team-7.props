@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TPFinal_team-7.props" />
+</Project>
